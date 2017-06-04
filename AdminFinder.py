@@ -57,3 +57,5 @@ Connection: keep-alive\n
 		print "Usage: -h For Help"
 except KeyboardInterrupt:
 	print "Canceling"
+except socket.gaierror:
+	print "Masukkan Target Dengan Benar, Example: -u www.kpu.go.id"
