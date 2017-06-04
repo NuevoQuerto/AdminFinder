@@ -43,7 +43,7 @@ Connection: keep-alive\n
 			
 			Response = Socket.recv(1024) # Menerima Respon
 			
-			Socket.close() #
+			Socket.close()
 			
 			Checking_Code = re.search( r"%s" %(HTTP_Code), Response, re.M|re.I) # Reguler Expression
 			if Checking_Code:
