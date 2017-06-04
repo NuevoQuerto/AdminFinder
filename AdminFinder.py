@@ -7,8 +7,8 @@ print """
 \t\t\t|       devilzc0de.org       |
 \t\t\t| We Are Coder And Exploiter |
 \t\t\t|                            |
-\t\t\t|      Admin Finder          |
-\t\t\t|Created By Nuevo Querto     |
+\t\t\t|       Admin Finder         |
+\t\t\t|  Created By Nuevo Querto   |
 \t\t\t|----------------------------|
 """
 
